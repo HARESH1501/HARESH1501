@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=300&section=header&text=HARESH%20K%20N&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Data%20Analyst%20|%20ML%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 <div align="center">
