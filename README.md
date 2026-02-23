@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=3rd+Year+CSE+(AIML)+Student;Machine+Learning+Engineer;Data+Analytics+Enthusiast;Building+Real-World+AI+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Data+Analytics+Enthusiast;Building+Real-World+AI+Solutions)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HARESH1501&label=Profile%20Views&color=667eea&style=for-the-badge)
 
@@ -12,19 +12,25 @@
 
 ---
 
+## 👨‍💻 About Me
+
+```python
 class HareshKN:
     def __init__(self):
         self.name = "Haresh K N"
-        self.role = "Machine Learning Engineer | Generative AI Developer | Data Analyst"
-        self.specialization = ["Machine Learning", "Generative AI", "Data Analytics"]
-        self.current_focus = ["RAG Systems", "Advanced ML Models", "LLMs", "Data-Driven Solutions"]
-        self.goal = "Transforming data into intelligent AI-powered solutions"
-
+        self.role = "CSE (AIML) Student | Aspiring Data Analyst & AI Engineer"
+        self.year = "3rd Year"
+        self.interests = ["Machine Learning", "Data Analytics", "Generative AI"]
+        self.current_focus = ["RAG Systems", "Advanced ML", "LLMs"]
+        self.goal = "Building impactful AI solutions for real-world problems"
+    
     def say_hi(self):
-        print("Passionate about building intelligent systems that solve real-world problems.")
+        print("Thanks for dropping by! Let's build something amazing together.")
 
 me = HareshKN()
 me.say_hi()
+```
+
 🎯 **Career Objective:** Passionate about leveraging AI and data to solve complex problems. Seeking opportunities in Data Analytics and AI Engineering roles.
 
 ---
@@ -175,7 +181,7 @@ mindmap
 </div>
 
 ---
- 
+
 ## 📫 Let's Connect
 
 <div align="center">
