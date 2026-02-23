@@ -74,35 +74,50 @@ Multilingual voice-powered campus assistant
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Programming
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-### AI/ML Tools
+### AI/ML
 <p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Supervised_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Supervised Learning"/>
+  <img src="https://img.shields.io/badge/Unsupervised_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Unsupervised Learning"/>
+  <img src="https://img.shields.io/badge/Semi--Supervised-4CAF50?style=for-the-badge&logo=python&logoColor=white" alt="Semi-Supervised"/>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-9C27B0?style=for-the-badge&logo=openai&logoColor=white" alt="Reinforcement Learning"/>
+  <img src="https://img.shields.io/badge/Isolation_Forest-2196F3?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Isolation Forest"/>
 </p>
 
-### Data Tools
+### Generative AI
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="BERT"/>
+  <img src="https://img.shields.io/badge/T5-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="T5"/>
+  <img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA"/>
+  <img src="https://img.shields.io/badge/GPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="GPT"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/NLP-00599C?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/RAG-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="RAG"/>
+</p>
+
+### Frameworks/Libraries
+<p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="EDA"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Uvicorn"/>
 </p>
 
-### Other Tools
+### Tools/Deployment
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
