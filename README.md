@@ -32,7 +32,7 @@
 
 ---
 
-🎯 **Career Objective:** Passionate about leveraging AI and data to solve complex problems. Seeking opportunities in Data Analytics and AI Engineering roles.
+🎯 **Career Objective:** Passionate about leveraging AI and data to solve complex problems. Seeking opportunities in Machine Learning and AI Engineering roles.
 
 ---
 
