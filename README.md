@@ -6,7 +6,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=3rd+Year+CSE+(AIML)+Student;Machine+Learning+Engineer;Data+Analytics+Enthusiast;Building+Real-World+AI+Solutions)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=hareshkn&label=Profile%20Views&color=667eea&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=HARESH1501&label=Profile%20Views&color=667eea&style=for-the-badge)
 
 </div>
 
@@ -115,12 +115,12 @@ Multilingual voice-powered campus assistant
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hareshkn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hareshkn&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HARESH1501&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARESH1501&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareshkn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARESH1501&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
 ---
@@ -128,11 +128,11 @@ Multilingual voice-powered campus assistant
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hareshkn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARESH1501&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9" alt="Contribution Graph" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hareshkn/hareshkn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/HARESH1501/HARESH1501/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -186,10 +186,10 @@ mindmap
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hareshkn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haresh-k-n)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hareshkn1501@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HARESH1501)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/HARESH1501)
 
 </div>
 
