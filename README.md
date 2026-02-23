@@ -14,21 +14,23 @@
 
 ## 👨‍💻 About Me
 
-```python
-class HareshKN:
-    def __init__(self):
-        self.name = "Haresh K N"
-        self.role = "CSE (AIML) Student | Aspiring Data Analyst & AI Engineer"
-        self.interests = ["Machine Learning", "Data Analytics", "Generative AI"]
-        self.current_focus = ["RAG Systems", "Advanced ML", "LLMs"]
-        self.goal = "Building impactful AI solutions for real-world problems"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+<div align="center">
 
-me = HareshKN()
-me.say_hi()
-```
+### Hi there! 👋 I'm Haresh K N
+
+🎓 CSE (AIML) Student | 💼 Aspiring Data Analyst & AI Engineer
+
+🔍 **Interests:** Machine Learning • Data Analytics • Generative AI
+
+🚀 **Currently Exploring:** RAG Systems • Advanced ML • LLMs
+
+🎯 **Goal:** Building impactful AI solutions for real-world problems
+
+💡 **Passion:** Turning data into insights, and insights into impact
+
+</div>
+
+---
 
 🎯 **Career Objective:** Passionate about leveraging AI and data to solve complex problems. Seeking opportunities in Data Analytics and AI Engineering roles.
 
