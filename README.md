@@ -19,7 +19,6 @@ class HareshKN:
     def __init__(self):
         self.name = "Haresh K N"
         self.role = "CSE (AIML) Student | Aspiring Data Analyst & AI Engineer"
-        self.year = "3rd Year"
         self.interests = ["Machine Learning", "Data Analytics", "Generative AI"]
         self.current_focus = ["RAG Systems", "Advanced ML", "LLMs"]
         self.goal = "Building impactful AI solutions for real-world problems"
